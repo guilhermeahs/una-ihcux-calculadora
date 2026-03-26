@@ -11,5 +11,5 @@ O objetivo desta atividade foi praticar comandos básicos do .NET no terminal, c
 Este projeto contém:
 
 - `Program.cs` → arquivo principal da aplicação
-- `OlaMundo.csproj` → arquivo de configuração do projeto
+- `Calculadora.csproj` → arquivo de configuração do projeto
 - `README.md` → descrição do projeto
